@@ -1,4 +1,4 @@
-# Semana omnistack 11
+# Semana omnistack 10
 
 Esse projeto é resultado da semana omnistack 10 da equipe RocketSeat. Nele foram aplicadas as tecnologias NodeJs, Reactjs, React Native e MongoDB para construção de uma aplicação que visa oferecer formas de encontrara e compartilhar conhecimento entre desenvoldores através de tecnologias que conheçam.
 
